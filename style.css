@@ -1,0 +1,9 @@
+.logo {
+    height: 3cm;
+    width: 3cm;
+}
+
+.hero-section {
+    background-color: red;
+    background-image: url('./images/multimoda.jpg');
+}
